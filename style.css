@@ -42,8 +42,10 @@
   }
   
   .panel.right {
-    background: url("https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6465/6465022_sd.jpg;maxHeight=640;maxWidth=550") center 1% / cover no-repeat;
+    background: url("images/samsung.jpg") bottom center / 50% auto no-repeat;
+    height: auto; /* Yüksekliği otomatik ayarla */
   }
+  
   
   .buy-now {
     text-decoration: none;
